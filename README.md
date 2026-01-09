@@ -30,12 +30,12 @@
 <details open>
 <summary><b>📚 目录</b></summary>
 
-- 📝 [基础内容](#-基础内容)
-- 📌 [代码质量与规范](#-代码质量与规范)
-- 👥 [协作与社区](#-协作与社区)
-- 🔧 [项目管理](#-项目管理)
-- 📝 [文档与示例](#-文档与示例)
-- 🍀 [Acknowledgements](#-acknowledgements)
+- 📝 [基础内容](#基础内容)
+- 📌 [代码质量与规范](#代码质量与规范)
+- 👥 [协作与社区](#协作与社区)
+- 🔧 [项目管理](#项目管理)
+- 📝 [文档与示例](#文档与示例)
+- 🍀 [致谢](#致谢)
 
 </details>
 
@@ -674,5 +674,5 @@ jobs:
 根据项目的实际情况进行调整。
 
 
-## Acknowledgements
+## 致谢
 1. [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template)
