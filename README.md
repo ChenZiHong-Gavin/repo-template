@@ -1,5 +1,5 @@
 <a href="https://github.com/ChenZiHong-Gavin/repo-template">
-<img height=350 alt="A Repo Template" src="https://capsule-render.vercel.app/api?type=waving&color=ffdd7a&height=300&section=header&text=A%20Repo%20Template&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Replace%20with%20your%20project%20logo&descAlignY=60&descAlign=50"></img></a>
+<img height=350 alt="A Repo Template" src="https://capsule-render.vercel.app/api?type=waving&color=ffdd7a&height=300&section=header&text=A%20Repo%20Template&fontSize=70&fontColor=0f0000&animation=fadeIn&fontAlignY=38&desc=Replace%20with%20your%20project%20logo&descAlignY=60&descAlign=50"></img></a>
 
 <p align="center">
   <b>Put here a brief description of your project.</b>
