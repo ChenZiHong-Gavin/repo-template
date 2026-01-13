@@ -1,3 +1,5 @@
+default_language_version:
+  python: python
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.5.0
@@ -11,7 +13,6 @@ repos:
     rev: 23.11.0
     hooks:
       - id: black
-        language_version: python3.11
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
     rev: v0.1.6
